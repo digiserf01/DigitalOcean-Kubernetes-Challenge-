@@ -18,3 +18,11 @@ Follow the instructions to create a cluster
 
 ![](static/clustercreate2.png?raw=true)
 
+Easy enough with the one click setup provided
+![](static/clustercreate3.png?raw=true)
+
+And additional apps available to install just as easy
+![](static/clustercreate4.png?raw=true)
+
+
+
