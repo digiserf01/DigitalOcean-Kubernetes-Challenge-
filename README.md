@@ -7,7 +7,7 @@ K8 toolchain is available and nodes are built on Digital Ocean <code> droplets <
 
 <code>doctl</code> is used to interact with a DOKS cluster. You can find [more information here](https://github.com/digitalocean/doctl). 
 
-to start follow the instructions to create a cluster
+To start with the challenge, follow the instructions to create a cluster
 
 ![](static/clustercreate.png?raw=true)
 
