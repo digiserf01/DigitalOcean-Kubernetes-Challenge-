@@ -14,6 +14,8 @@ To start with the challenge, follow the instructions to create a cluster
 Instructions to install Harbor are fairly simple with Helm providing the handholding
 <code>helm install doks-release harbor/harbor -f harbor-values.yaml</code>
 
+![](static/clusterharborinstall.png?raw=true)
+
 
 
 
